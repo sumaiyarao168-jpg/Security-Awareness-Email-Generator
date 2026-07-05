@@ -1,8 +1,12 @@
 # Security-Awareness-Email-Generator
-🚀 Cyber Security Internship – Task 6 Completed ✅
+🚀 Cyber Security Internship 
+– Task 6 Completed ✅
 Successfully completed Task 6 of my Cyber Security Internship at SQROCK IT SOLUTION.
+
 🛡️ Project:
+
  Security Awareness Email Template Engine (Lab Only)
+
 In this task, I developed a Python-based email template generator that:
 
 📧 Creates 3 personalized security awareness email drafts
